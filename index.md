@@ -2,6 +2,7 @@
 
 #### Nathan Rickett
 https://github.com/NathanRickett
+https://www.linkedin.com/in/nathan-rickett-9aa015183/
 
 ####  Mason Kossen
 https://github.com/maskossen
